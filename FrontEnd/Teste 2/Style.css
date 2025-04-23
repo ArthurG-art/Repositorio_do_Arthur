@@ -69,3 +69,11 @@
         color: var(--subcor);
         transition: 600ms;
     }
+    #linksFooter{
+        padding: 32px;
+    }
+    #linksFooter a{
+        padding-top: 32px;
+        padding-bottom: 8px;
+        border-bottom: 3px solid var(--subcor);
+    }
