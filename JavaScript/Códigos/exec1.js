@@ -41,3 +41,28 @@ console.log(5=== "5");
 
 let idade = 18;
 console.log(idade >= 18);
+
+
+console.log(true&&false);
+console.log(true||false);
+
+
+if (idade>=18) {
+    console.log("pode ser preso")
+}
+else {
+    console.log("não pode ser preso")
+}
+
+
+
+let nota = 7;
+if (nota>=7) {
+    console.log("aprovado");
+}
+else if (nota>=5) {
+    console.log("recuperação")
+}
+else {
+    console.log("reprovado")
+}
